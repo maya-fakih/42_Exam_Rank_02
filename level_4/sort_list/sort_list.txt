@@ -37,3 +37,4 @@ struct s_list {
     t_list *next;
 };
 YOU MUST TEST WITH YOUR LIST.H FILE JUST FOR THIS SHELL.
+
