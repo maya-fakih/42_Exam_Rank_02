@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    is_power_of_2.txt                                  :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: mfakih <mfakih@student.42.fr>              +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2026/01/06 19:59:10 by mfakih            #+#    #+#              #
-#    Updated: 2026/01/06 19:59:23 by mfakih           ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 Assignment name  : is_power_of_2
 Expected files   : is_power_of_2.c
 Allowed functions: None
@@ -23,6 +11,3 @@ Your function must be declared as follows:
 
 int	    is_power_of_2(unsigned int n);
 
-Please type 'test' to test code, 'next' for next or 'exit' for exit.
-
-/>
